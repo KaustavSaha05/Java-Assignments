@@ -22,3 +22,4 @@ public class Multiplescheck {
         input.close();
     }
 }
+
